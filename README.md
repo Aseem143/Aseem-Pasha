@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aseem Pasha</h1>
 <h3 align="center">A Aspiring Data Scientist from India</h3>
-(img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif")
+
 
 
 
