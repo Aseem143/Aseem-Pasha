@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/data-science-2.gif)](https://aseem143.io)
 
 <h1 align="center">Hi 👋, I'm Aseem Pasha</h1>
-<h3 align="center">A Aspiring Data Scientist from India</h3>
+<h3 align="center"> Data Professional working in Healthcare Sector</h3>
 
 
 
