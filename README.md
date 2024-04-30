@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseem143&label=Profile%20views&color=0e75b6&style=flat" alt="aseem143" /> </p>
 
-- 🔭 I’m currently working on **Lead Scoring Case Study**
+- 🔭 I’m currently working in **Fortrea pvt lmtd**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aseem143](https://github.com/Aseem143)
 
