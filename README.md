@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseem143&label=Profile%20views&color=0e75b6&style=flat" alt="aseem143" /> </p>
 
-- 🔭 I’m currently working in **Fortrea pvt lmtd**
+- 🔭 I’m currently working in **Fortrea pvt limited**
 
 - 🌱 I’m currently learning **Data Engineering**
 
